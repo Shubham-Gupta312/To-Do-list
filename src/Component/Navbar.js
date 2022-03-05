@@ -16,7 +16,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <Link className="navbar-brand"  style={{ color: "#ba5bf4" }} to="/home">
+          <Link className="navbar-brand"  style={{ color: "#ba5bf4" }} to="#">
           To-do List
           </Link>
 
